@@ -2,7 +2,7 @@
 
 ## Images
 
-[![openjourney](https://opengraph.githubassets.com/1/https://github.com/ammaarreshi/openjourney)](https://www.swifttechco.com)
+[![openjourney](https://opengraph.githubassets.com/1/ammaarreshi/openjourney)](https://www.swifttechco.com)
 
 
 A high-fidelity, open-source clone of the MidJourney web interface built with Next.js 15, featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to video with audio.
