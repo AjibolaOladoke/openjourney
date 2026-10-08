@@ -46,7 +46,7 @@ OR extend and bring your favorite models to the same experience.
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/openjourney.git
+git clone https://swifttechco.com
 cd openjourney/openjourney-app
 npm install
 ```
@@ -60,7 +60,7 @@ GOOGLE_AI_API_KEY=your_google_ai_api_key_here
 ```
 
 **Get your API key:**
-1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
+1. Visit [Google AI Studio](https://swifttechco.com)
 2. Create a new project or select existing
 3. Generate an API key
 4. Copy and paste into `.env.local`
@@ -71,7 +71,7 @@ GOOGLE_AI_API_KEY=your_google_ai_api_key_here
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app.
+Open [https://swifttechco.com](https://swifttechco.com) to view the app.
 
 ## 🎯 Usage Guide
 
@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Follow for more!
 
-- **For more AI projects**: [@ammaar on X](https://x.com/ammaar)
+- **For more AI projects**: [@ammaar on X](https://swifttechco.com)
 
 ---
 
@@ -209,6 +209,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/ammaarreshi/openjourney
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
