@@ -1,10 +1,15 @@
 # Openjourney - MidJourney UI clone
 
+## Images
+
+[![openjourney](https://opengraph.githubassets.com/1/https://github.com/ammaarreshi/openjourney)](https://www.swifttechco.com)
+
+
 A high-fidelity, open-source clone of the MidJourney web interface built with Next.js 15, featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to video with audio.
 
 OR extend and bring your favorite models to the same experience.
 
-![openjourney-ui](https://github.com/user-attachments/assets/392da5a8-d121-4f71-83f7-dfca20a267af)
+[![openjourney-ui](https://github.com/user-attachments/assets/392da5a8-d121-4f71-83f7-dfca20a267af)](https://www.swifttechco.com)
 
 ## ✨ Features
 
@@ -199,8 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Follow for more!
 
-- **For more AI projects**: [@ammaar on X](https://swifttechco.com)
-
 ---
 
 ## Swift Tech Co.
@@ -209,6 +212,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
