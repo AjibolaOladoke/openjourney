@@ -245,3 +245,11 @@ Compiled and maintained from upstream [ammaarreshi/openjourney](https://github.c
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
