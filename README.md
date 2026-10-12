@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the openjourney notes, 
 
 ## Images
 
-[![openjourney](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![openjourney](images/preview.png)](https://github.com/Swift-Tech-Co/openjourney)
 
 ## ✨ Features
 
@@ -48,7 +48,7 @@ A practical reference entry for product and engineering: the openjourney notes, 
 ### 1. Clone & Install
 
 ```bash
-git clone https://swifttechco.com
+git clone https://github.com/Swift-Tech-Co/openjourney
 cd openjourney/openjourney-app
 npm install
 ```
@@ -73,7 +73,7 @@ GOOGLE_AI_API_KEY=your_google_ai_api_key_here
 npm run dev
 ```
 
-Open https://swifttechco.com to view the app.
+Open https://github.com/Swift-Tech-Co/openjourney to view the app.
 
 ## 🎯 Usage Guide
 
@@ -215,13 +215,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/openjourney
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
